@@ -1,5 +1,7 @@
 #EXTM3U
 
+https://raw.githubusercontent.com/ColinPowerJ/ver2/main/README.md
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png"group-title="COPA DEL MUNDO",CITY SPORTS TV
 http://daleplay.club:8080/eduardo2022/eduardo2022/111541
 
